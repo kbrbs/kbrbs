@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey there, I'm Kat!
 
-<!--
-**kbrbs/kbrbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BSIT Student | 🎨 Creative Designer | 🌱 Always Learning
 
-Here are some ideas to get you started:
+An aspiring developer currently studying at **Bulacan State University**, majoring in **Web and Mobile Application Development**. I’m passionate about turning creative ideas into interactive, user-friendly digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+**Frontend:** HTML, CSS, JavaScript  
+**Languages:** Java, C++, C#, PHP  
+**Database:** MySQL, Firebase  
+**Design:** Adobe Photoshop, Illustrator, Premiere, Canva, Figma  
+**Productivity Tools:** Microsoft Office (Word, Excel, PowerPoint, etc.)
+
+---
+
+### 🔍 Quick Facts
+
+- 🌱 I’m currently learning **Next.js, advanced Firebase features, and better UI/UX practices**
+- 📫 How to reach me: [Visit my portfolio](https://kbrbs.vercel.app) – it has all my links and contact form!
+
+---
+
+### 📫 Let's Connect
+
+I’m always open to collaboration, feedback, or just chatting about tech and design!  
+📬 Drop a message through my portfolio or connect with me here on GitHub.
+
+---
+
+> “Creativity is intelligence having fun.” – Albert Einstein
