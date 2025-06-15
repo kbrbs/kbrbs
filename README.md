@@ -11,8 +11,7 @@ An aspiring developer currently studying at **Bulacan State University**, majori
 **Frontend:** HTML, CSS, JavaScript  
 **Languages:** Java, C++, C#, PHP  
 **Database:** MySQL, Firebase  
-**Design:** Adobe Photoshop, Illustrator, Premiere, Canva, Figma  
-**Productivity Tools:** Microsoft Office (Word, Excel, PowerPoint, etc.)
+**Design:** Adobe Photoshop, Illustrator, Premiere, Canva, Figma
 
 ---
 
