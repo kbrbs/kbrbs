@@ -9,8 +9,11 @@ An aspiring developer currently studying at **Bulacan State University**, majori
 ## 🛠️ Technical Skills
 
 **Frontend:** HTML, CSS, JavaScript  
+
 **Languages:** Java, C++, C#, PHP  
+
 **Database:** MySQL, Firebase  
+
 **Design:** Adobe Photoshop, Illustrator, Premiere, Canva, Figma
 
 ---
@@ -18,7 +21,8 @@ An aspiring developer currently studying at **Bulacan State University**, majori
 ### 🔍 Quick Facts
 
 - 🌱 I’m currently learning **Next.js, advanced Firebase features, and better UI/UX practices**
-- 📫 How to reach me: [Visit my portfolio](https://kbrbs.vercel.app) – it has all my links and contact form!
+  
+- 📫 How to reach me: [Visit my portfolio](https://kbrbs.vercel.app) – it has all my links an contact form!
 
 ---
 
